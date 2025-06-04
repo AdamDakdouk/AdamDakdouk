@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Adam Wissam Dakdouk 👋
 
-<!--
-**AdamDakdouk/AdamDakdouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/adamdak1264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/AdamDakdouk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a motivated Computer Science student (graduating Spring 2025) and a freelance Full-Stack Developer passionate about creating scalable web and mobile applications. I thrive on solving complex problems with innovative solutions and enjoy working with modern technologies to build impactful projects.
+
+* 🌱 I’m currently focusing on [mention any specific technologies or areas you are learning/exploring, e.g., advanced AI integrations, specific cloud services, new frameworks].
+* 👯 I’m looking to collaborate on [mention types of projects if you're open to collaboration].
+* 📫 How to reach me: **adamdakdouk2003@gmail.com**
+* 😄 Fun fact: I'm also a dedicated Civil Defense Volunteer, participating in emergency response operations.
+
+---
+
+## 🛠️ Skills & Technologies
+
+* **Programming Languages:** JavaScript, TypeScript, Python, Java, C++, HTML, CSS, SQL
+* **Frameworks & Libraries:** React, Node.js, Express.js, React Native (Expo), EJS, Sequelize
+* **Databases:** MongoDB, MySQL
+* **Tools & Platforms:** Git, GitHub, Microsoft Azure (Azure AI Services, Azure Functions), JWT
+
+---
+
+## 🚀 My Projects
+
+Here are some of the key projects I've developed:
+
+1.  **SmartHR: Mobile-First HR Platform**
+    * A comprehensive mobile-first HR platform using React Native, Node.js, MongoDB, and Azure AI. Features include JWT authentication, task management, GPS check-in/out, issue reporting, and an AI chatbot.
+    * *[Link to SmartHR GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/SmartHR`)
+
+2.  **Movie Recommendation System**
+    * A full-stack movie recommendation platform built with the MERN stack and Python for intelligent suggestions. Includes user authentication, a comment system, and content filtering.
+    * *[Link to Movie Recommendation System GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/MovieRecommendationSystem`)
+
+3.  **Library Management System Website**
+    * Web-based system for managing library resources, built with Express.js, EJS, and Sequelize.
+    * *[Link to Library Management System GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/LibraryManagementSystem`)
+
+4.  **Workout Tracker Website**
+    * An interactive MERN stack platform for users to log, track, and monitor their fitness routines and goals.
+    * *[Link to Workout Tracker GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/WorkoutTracker`)
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+*(You can add dynamically generated GitHub stats here using services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) or [Shields.io](https://shields.io/). This will require you to copy markdown/image links from those services once configured.)*
+
+---
