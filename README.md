@@ -7,7 +7,7 @@
 
 I'm a motivated Computer Science student (graduating Spring 2025) and a freelance Full-Stack Developer passionate about creating scalable web and mobile applications. I thrive on solving complex problems with innovative solutions and enjoy working with modern technologies to build impactful projects.
 
-* 🌱 I’m currently focusing on [mention any specific technologies or areas you are learning/exploring, e.g., advanced AI integrations, specific cloud services, new frameworks].
+* 🌱 I’m currently focusing on deepening my knowledge in Artificial Intelligence, particularly exploring machine learning applications and AI-driven data analytics. I'm keen to build on my experience with Azure AI services [cite: 2, 10, 17, 27, 60] and develop more solutions that leverage AI to solve complex problems.
 * 👯 I’m looking to collaborate on [mention types of projects if you're open to collaboration].
 * 📫 How to reach me: **adamdakdouk2003@gmail.com**
 * 😄 Fun fact: I'm also a dedicated Civil Defense Volunteer, participating in emergency response operations.
@@ -27,26 +27,18 @@ I'm a motivated Computer Science student (graduating Spring 2025) and a freelanc
 
 Here are some of the key projects I've developed:
 
-1.  **SmartHR: Mobile-First HR Platform**
-    * A comprehensive mobile-first HR platform using React Native, Node.js, MongoDB, and Azure AI. Features include JWT authentication, task management, GPS check-in/out, issue reporting, and an AI chatbot.
-    * *[Link to SmartHR GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/SmartHR`)
+1.  **SmartHR: Smarter HR, Stronger Teams!**
+    * A comprehensive mobile HR platform using React Native, Node.js, MongoDB, and Azure AI. Features include JWT authentication, task management, GPS check-in/out, issue reporting, and an AI chatbot.
+    * https://github.com/AdamDakdouk/SmartHR
 
 2.  **Movie Recommendation System**
     * A full-stack movie recommendation platform built with the MERN stack and Python for intelligent suggestions. Includes user authentication, a comment system, and content filtering.
-    * *[Link to Movie Recommendation System GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/MovieRecommendationSystem`)
+    * https://github.com/AdamDakdouk/MovieRecommendationSystem
 
 3.  **Library Management System Website**
     * Web-based system for managing library resources, built with Express.js, EJS, and Sequelize.
-    * *[Link to Library Management System GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/LibraryManagementSystem`)
+    *  `https://github.com/AdamDakdouk/LibraryManagementSystem`
 
 4.  **Workout Tracker Website**
     * An interactive MERN stack platform for users to log, track, and monitor their fitness routines and goals.
-    * *[Link to Workout Tracker GitHub Repository]* - (e.g., `https://github.com/AdamDakdouk/WorkoutTracker`)
-
----
-
-## 📊 GitHub Stats (Optional)
-
-*(You can add dynamically generated GitHub stats here using services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) or [Shields.io](https://shields.io/). This will require you to copy markdown/image links from those services once configured.)*
-
----
+    * * `https://github.com/AdamDakdouk/WorkoutTracker`
