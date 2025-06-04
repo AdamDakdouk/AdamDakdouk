@@ -37,8 +37,8 @@ Here are some of the key projects I've developed:
 
 3.  **Library Management System Website**
     * Web-based system for managing library resources, built with Express.js, EJS, and Sequelize.
-    *  `https://github.com/AdamDakdouk/LibraryManagementSystem`
+    * https://github.com/AdamDakdouk/LibraryManagementSystem
 
 4.  **Workout Tracker Website**
     * An interactive MERN stack platform for users to log, track, and monitor their fitness routines and goals.
-    * * `https://github.com/AdamDakdouk/WorkoutTracker`
+    * https://github.com/AdamDakdouk/WorkoutTracker
