@@ -7,7 +7,7 @@
 
 I'm a motivated Computer Science student (graduating Spring 2025) and a freelance Full-Stack Developer passionate about creating scalable web and mobile applications. I thrive on solving complex problems with innovative solutions and enjoy working with modern technologies to build impactful projects.
 
-* 🌱 I’m currently focusing on deepening my knowledge in Artificial Intelligence, particularly exploring machine learning applications and AI-driven data analytics. I'm keen to build on my experience with Azure AI services [cite: 2, 10, 17, 27, 60] and develop more solutions that leverage AI to solve complex problems.
+* 🌱 I’m currently focusing on deepening my knowledge in Artificial Intelligence, particularly exploring machine learning applications and AI-driven data analytics. I'm keen to build on my experience with Azure AI services and develop more solutions that leverage AI to solve complex problems.
 * 👯 I’m looking to collaborate on [mention types of projects if you're open to collaboration].
 * 📫 How to reach me: **adamdakdouk2003@gmail.com**
 * 😄 Fun fact: I'm also a dedicated Civil Defense Volunteer, participating in emergency response operations.
